@@ -80,5 +80,5 @@ We welcome contributions to improve TechBlog! To contribute:
 For any queries or feedback, feel free to reach out:
 
 - **Developer**: Lucky Manikpur  
-- **Email**: your-email@example.com  
+- **Email**: manikpurilucky218@gmail.com
 - **GitHub**: [Lucky Manikpur](https://github.com/lucky001118)
